@@ -122,3 +122,23 @@ header {
 .service img {
     margin-top: -50px;  
 }
+.service h3 {
+    font-size: 20px;
+    color: #0e0e0e;
+    margin-bottom: 10px;
+}
+.service p {
+    color: #525254;
+    font-size: 16px; 
+}
+.porfolios {
+    padding: 80px 0px;
+    text-align: center;
+    color: #0e0e0e;
+}
+.porfolios h2{
+    font-size: 55px;
+}
+.porfolios img {
+    width: 350px;
+}

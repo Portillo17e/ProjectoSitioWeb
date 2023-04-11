@@ -60,6 +60,32 @@ header {
     display: block;
 }
 .menu .navbar ul li a:hover {
-    color: #0EAEF3;
+    color: blue;
     
+}
+#menu {
+    display: none;
+}
+
+.menu-icono {
+    width: 25px;
+}
+
+.menu label{
+    cursor: pointer;
+    display: none;
+}
+
+.header-content {
+    display: flex;
+}
+.content {
+    padding: 150px 150px 0px 0px;  
+}
+.content h1 {
+    color: #ffffff;
+    font-size: 55px;
+    text-transform: uppercase;
+    font-weight: 500;
+    line-height: 55px;
 }

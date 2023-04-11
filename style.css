@@ -104,5 +104,21 @@ header {
     padding: 15px 25px;
     color: #ffffff;
     border-radius: 25px;
-    
+}
+.btn-1:hover {
+    background-color: #aab1ff;
+}
+.services {
+    padding: 10px 0px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.services{
+    padding: 25px;
+    margin: 0px 10px;
+    box-shadow: 0px 0px 20px rgba(135, 141, 214, 0.3) ;  
+}
+.service img {
+    margin-top: -50px;  
 }

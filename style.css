@@ -139,6 +139,14 @@ header {
 .porfolios h2{
     font-size: 55px;
 }
+.porfolio{
+    display: flex;
+    align-items: center; 
+}
 .porfolios img {
     width: 350px;
+}
+.porfolio-1{
+    text-align: left;
+    margin-left: 100px;
 }

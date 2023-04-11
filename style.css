@@ -131,22 +131,22 @@ header {
     color: #525254;
     font-size: 16px; 
 }
-.porfolios {
+.Portafolios {
     padding: 80px 0px;
     text-align: center;
     color: #0e0e0e;
 }
-.porfolios h2{
+.Portafolios h2{
     font-size: 55px;
 }
-.porfolio{
+.Portafolio{
     display: flex;
     align-items: center; 
 }
-.porfolios img {
+.Portafolio img {
     width: 350px;
 }
-.porfolio-1{
+.Portafolio-1{
     text-align: left;
     margin-left: 100px;
 }

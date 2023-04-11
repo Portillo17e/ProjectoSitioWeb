@@ -226,3 +226,37 @@ hr {
     justify-content: space-between;
     color: #ffffff;
 }
+.enlaces h3 {
+    font-size: 25px;
+}
+.enlace {
+    display: flex;
+}
+.enlace li a {
+    display: block;
+    margin: 20px;
+    color: #ffffff;
+}
+.enlace li a:hover {
+    color: #0eaef3;
+}
+
+@media (max-width:991px) {
+    .menu {
+        padding: 20.px;
+    }
+    .menu label {
+        display: initial;
+    }
+    .menu .navbar {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background-color: #5B50BC;
+        display: none;
+    }
+    .menu .navbar ul li {
+        width: 100%;
+    }
+}

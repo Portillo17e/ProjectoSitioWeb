@@ -12,11 +12,11 @@
     font-family: 'Poppins', sans-serif;
 }
 body {
-    background-color: aqua;
+    background-color: #0f2229;
 }
 
 header {
-    background-image: url(Imagenes/hero.svg);
+    background-image: url(Imagenes);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -46,4 +46,20 @@ header {
     font-size: 25px;
     color: #ffffff;
      
+}
+
+.menu .navbar ul li {
+    position: relative;
+    float: left;
+}
+    
+.menu .navbar ul li {
+    font-size: 18px;
+    padding: 20px;
+    color: #ffffff;
+    display: block;
+}
+.menu .navbar ul li a:hover {
+    color: #0EAEF3;
+    
 }

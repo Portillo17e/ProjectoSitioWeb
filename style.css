@@ -89,4 +89,13 @@ header {
     font-weight: 500;
     line-height: 55px;
 }
-
+.content p {
+    margin-top: 25px;
+    color: #aab1ff;
+    text-transform: uppercase;
+    font-size: 35px;
+    line-height: 40px;  
+}
+.btn-1 {
+    
+}

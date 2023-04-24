@@ -3,6 +3,8 @@
 * {
     margin: 0;
     padding: 0;
+    padding-left: 1%;
+    padding-right: 1%;
     box-sizing: border-box;
     text-transform: capitalize;
     text-decoration: none;
@@ -239,6 +241,9 @@ hr {
 }
 .enlace li a:hover {
     color: #0eaef3;
+}
+.no-margen{
+    margin: 0;
 }
 
 @media (max-width:991px) {

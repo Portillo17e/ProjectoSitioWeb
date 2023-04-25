@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     padding-left: 1%;
-    padding-right: 1%;
+    padding-right: 0%;
     box-sizing: border-box;
     text-transform: capitalize;
     text-decoration: none;
@@ -52,10 +52,10 @@ header {
 
 .menu .navbar ul li {
     position: relative;
-    float: left;
+    float: right;
 }
     
-.menu .navbar ul li {
+.menu .navbar ul li a {
     font-size: 18px;
     padding: 20px;
     color: #ffffff;

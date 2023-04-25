@@ -1,3 +1,3 @@
 # ProjectoSitioWeb
-# DISEÑO
-En este aparatado se encuentra todo lo que se utilizará para realizar el diseño, ya sea informacion o imagenes
+# MAIN
+En este aparatado se encuentra todo lo que se es necesarioa tomar en cuenta, aqui se aloja el codigo de html

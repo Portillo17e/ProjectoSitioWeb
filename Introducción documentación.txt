@@ -1,0 +1,7 @@
+INTRODUCCIÓN:
+
+
+Como estudiantes de Ingeniería en Informática y Sistemas, se nos ha encomendado el emocionante proyecto de desarrollar una Landing Page en HTML para la empresa Ixor.
+ Ixor es una empresa especializada en desarrollo web, y esta Landing Page será su presencia en línea para brindar información sobre su empresa y sus servicios a los visitantes del sitio web. La página incluirá secciones como Inicio, Quiénes somos y Contacto, y un menú principal para navegar fácilmente por las diferentes secciones a través de esta Landing Page.
+El objetivo es brindar una experiencia de usuario fluida y atractiva, y asegurar que los visitantes comprendan claramente el propósito de cada botón y sección del sitio web. Hemos creado este manual de usuario para asegurarnos de que puedas aprovechar al máximo tu experiencia en nuestra Landing Page. Aquí encontrarás una guía detallada de cada sección y botón disponible en nuestra página web. Nuestro objetivo es proporcionarte una navegación fácil y accesible, para que puedas obtener toda la información que necesitas sobre Ixor y nuestros servicios de manera clara y sencilla.
+Esperamos que esta guía te resulte útil y te ayude a sacar el máximo provecho de tu visita a nuestra página web. Si tienes alguna pregunta o necesitas más información, no dudes en ponerte en contacto con nosotros.

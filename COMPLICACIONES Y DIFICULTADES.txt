@@ -1,0 +1,6 @@
+COMPLICACIONES Y DIFICULTADES EN EL DESARROLLO DE LA PÁGINA WEB
+
+
+Durante el proceso de creación de la página web de Ixor, nuestro equipo de estudiantes de primer año de ingeniería en informática y sistemas enfrentó varias complicaciones debido a la falta de experiencia en programación y diseño web. El hecho de que solo nuestro Project Manager tuviera conocimientos previos en programación en HTML generó algunos desafíos para el resto del equipo.
+Una de las complicaciones más significativas fue la necesidad de depender en gran medida de las explicaciones y demostraciones del Project Manager para comprender el código de programación en HTML. Esto implicaba reuniones frecuentes en las que el Project Manager nos guiaba a través del proceso de programación y nos explicaba los conceptos técnicos de HTML. Aunque aprendimos mucho en el proceso, también enfrentamos ciertas dificultades para comprender completamente el código y su funcionamiento.
+Además, debido a nuestra falta de experiencia en diseño web, tuvimos que buscar activamente información y recursos en línea para aportar ideas y sugerencias en términos de diseño de la página web. Esto implicaba ver videos tutoriales, leer artículos y estudiar ejemplos de páginas web exitosas para comprender los principios de diseño y aplicarlos en nuestro proyecto.
